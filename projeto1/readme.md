@@ -1,1 +1,1 @@
-adicionando readme
+Jogo de advinhação com números secretos! em JavaScript
